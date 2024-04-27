@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Huitzil"
+date:   2024-04-26 18:36:46 -0700
+categories: huitzil
+---
+Huizil is an object oriented approach to hardware built on top of micropython.
+
+Insert diagram here
